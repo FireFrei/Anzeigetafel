@@ -8,6 +8,11 @@ Mit dem Skript können beispielsweise Lieder in einer Kirche oder Informationen 
 Die Daten können bei Bedarf auch gespeichert werden. Hierfür wird im 'Local Storage' des Browsers eine SQLite Datenbank angelegt.
 Zusätzlich kann auch eine Projektor-Fernsteuerung. sofern diese über eine Webseite erreicht werden kann, eingeblendet werden.
 
+Screenshots:
+https://raw.githubusercontent.com/FireFrei/Anzeigetafel/master/screenshots/Bearbeitungsmodus.jpg
+https://raw.githubusercontent.com/FireFrei/Anzeigetafel/master/screenshots/Vollbildmodus.jpg
+
+
 # Bedienung
 - 'index.html' in einem Browser öffnen
 - Textzeilen einfügen
